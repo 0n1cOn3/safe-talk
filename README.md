@@ -2,6 +2,7 @@
 
 Safe-Talk the new Opensource End to End Comunication App
 
+Base Code Source: [Scalable Scripts](https://www.youtube.com/watch?v=M-kdxIkYOro)
 First Steps to take:
 
 1. QR PGP Identification by Cam
