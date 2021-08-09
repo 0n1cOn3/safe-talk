@@ -2,7 +2,8 @@
 
 ## Safe-Talk the new Opensource End to End Comunication App
 
-Base Code Source: [Scalable Scripts](https://www.youtube.com/watch?v=M-kdxIkYOro)
+Backend Source Code: [Scalable Scripts](https://github.com/scalablescripts/dotnet-chat)
+Frontend Source Code: [Scalable Scripts](https://github.com/scalablescripts/react-chat)
 
 ### First Steps to take:
 
