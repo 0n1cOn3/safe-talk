@@ -10,3 +10,4 @@ Base Code Source: [Scalable Scripts](https://www.youtube.com/watch?v=M-kdxIkYOro
 2. Safe P2P/SSH Only Connection (Direct Conversation) 
 3. Conversation Safe Option
 
+Contact for Interested Co-Nerds: info@bittec.ch
