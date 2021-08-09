@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/benediktmuller/Downloads/dotnet-chat-main/dotnet-chat.csproj",
+      "projectUniqueName": "/Users/benediktmuller/Downloads/safe-talk/dotnet-chat.csproj",
       "projectName": "dotnet-chat",
-      "projectPath": "/Users/benediktmuller/Downloads/dotnet-chat-main/dotnet-chat.csproj",
+      "projectPath": "/Users/benediktmuller/Downloads/safe-talk/dotnet-chat.csproj",
       "packagesPath": "/Users/benediktmuller/.nuget/packages/",
-      "outputPath": "/Users/benediktmuller/Downloads/dotnet-chat-main/obj/",
+      "outputPath": "/Users/benediktmuller/Downloads/safe-talk/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/benediktmuller/.config/NuGet/NuGet.Config"
