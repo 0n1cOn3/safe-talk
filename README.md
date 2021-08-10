@@ -1,6 +1,6 @@
 # safe-talk
 
-## Safe-Talk the new Opensource End to End Comunication App
+## Safe-Talk the new Open-Source End to End Communication App
 
 Backend Source Code: [Scalable Scripts](https://github.com/scalablescripts/dotnet-chat)
 
